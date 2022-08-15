@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "testdisplay_names",
+  "info": {
+    "singularName": "testdisplay-name",
+    "pluralName": "testdisplay-names",
+    "displayName": "TestdisplayName"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Hello": {
+      "type": "text"
+    }
+  }
+}
